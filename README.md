@@ -14,7 +14,10 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 <div style="display: flex; justify-content: center;">
   <div style="width: 450px; margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DebtlessFlea&theme=holi&hide_border=false&include_all_commits=true&count_private=false" width="100%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DebtlessFlea&theme=holi&hide_border=false&include_all_commits=true&count_private=false&token=wow" width="100%" alt="GitHub Stats"/>
+
+    
+
   </div>
   <div style="width: 450px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebtlessFlea&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" alt="Top Languages"/>

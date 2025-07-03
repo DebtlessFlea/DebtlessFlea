@@ -11,7 +11,20 @@
 </h2>
 
 <!-- Badges -->
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-%237d4698.svg?style=for-the-badge&logo=torbrowser&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23dc2727.svg?style=for-the-badge&logo=tryhackme&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231672a0.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%2310233f.svg?style=for-the-badge&logo=kalilinux&logoColor=white) ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=9efc00) ![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor-%237d4698.svg?style=for-the-badge&logo=torbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-%23dc2727.svg?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-%231672a0.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-%2310233f.svg?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=9efc00" />
+  <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 <!-- Title -->
 <h2 align="center">

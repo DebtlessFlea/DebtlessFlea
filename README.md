@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Hack%20The%20Box-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=9efc00" />
   <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
 <!-- Title -->

@@ -1,4 +1,4 @@
-<!-- Typing SVG - https://readme-typing-svg.herokuapp.com/demo/leetcode: https://leetcard.jacoblin.cool/ -->
+<!-- Typing SVG - https://readme-typing-svg.herokuapp.com/demo -->
 <h2>
   <div align="center">
     <a href="https://git.io/typing-svg">

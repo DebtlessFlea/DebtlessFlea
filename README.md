@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-%231672a0.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-%2310233f.svg?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Hack%20The%20Box-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=9efc00" />
   <img src="https://img.shields.io/badge/OWASP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
